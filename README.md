@@ -1,6 +1,6 @@
 # pinf
 
-`pinf` is a tool that will **P**rint the input to the terminal output **I**f **N**ot **F**ound in the file given as an argument. 
+`pinf` is a tool that will **P**ipe an input to the terminal output **I**f **N**ot **F**ound in the file given as an argument. 
 
 # Usage example
 
@@ -27,15 +27,15 @@ Four
 Five
 ```
 
-Note that Pinf will not add new lines to the input file. For this, you can use [anew](github.com/tomnomnom/anew).
+Note that Pinf will not add new lines to the input file. If that's what you want to achieve, you can use [anew](github.com/tomnomnom/anew).
 
 
 # Install
 
 ```
-▶ go get -u github.com/nkxxkn/pinf
+▶ go get -u github.com/NkxxkN/pinf
 ```
 
 # Credits
 
-This tool was greatly inspired from anew from [TomNomNom](https://github.com/tomnomnom).
+This tool was 100% inspired from `anew` from [TomNomNom](https://github.com/tomnomnom).
